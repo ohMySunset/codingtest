@@ -2,15 +2,6 @@ package exam;
 
 public class Test4 {
 
-	/**
-	 * @param args
-	 */
-	/**
-	 * @param args
-	 */
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		
 		//String형 배열 seoul의 element중 "Kim"의 위치 x를 찾아,
